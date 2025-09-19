@@ -77,7 +77,7 @@ const Himanshu = {
 
 
 
-View my [resume]([https://drive.google.com/file/d/1a8mohSUJi6WF1wTWic5eHyox3W_ykAwL/view?usp=sharing](https://drive.google.com/file/d/1fjweDIhAmVfl2UloT2fTpvnjvciYHsFs/view?usp=drivesdk)),
+View my [resume](https://drive.google.com/file/d/1vsk3c7ZLzDdMH4UhTCdgeMBYtZHvkm3u/view?usp=drivesdk),
 Ask me anything, at [email](mailto:himanshupathak2315@gmail.com).
 <br>
 Happy Coding, my brothers! 💪🏽 <br>
